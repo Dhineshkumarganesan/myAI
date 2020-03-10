@@ -18,10 +18,16 @@ Hypothesis Testing, Statistical Inference, Analytics
 Steps
 
 Import pandas, numpy, ttest_ind, levene, shapiro, iqr, matplotlib.pyplot
+
 Get the data
-Check for the Descriptive Statistics.
-Check if shapiro and levene tests work fine for the data.
+
+Check for the Descriptive Statistics
+
+Check if shapiro and levene tests work fine for the data
+
 Calculate Pooled Standard Deviation
+
 Calculate Sample power
+
 **************************************
 
