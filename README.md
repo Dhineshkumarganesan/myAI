@@ -54,8 +54,6 @@ Skills and Tools
 Computer Vision, Keras, CNN, Siamese Networks, Triplet loss
 
 **********************************************************
-
-**********************************************************
 Project file - FaceDetection.ipynb
 **********************************************************
 Face Detection
@@ -68,8 +66,6 @@ Skills and Tools
 
 Computer Vision, CNN, Transfer Learning, Object detection
 **********************************************************
-
-**********************************************************
 Project file - SHVN_NeuralNetwork_ImageClassification.ipynb
 **********************************************************
 Implementing a Image classification neural network to classify Street House View Numbers
@@ -81,8 +77,6 @@ SVHN is a real-world image dataset for developing object recognition algorithms 
 Skills and Tools
 
 Neural Networks, Deep Learning, Keras, Image Recognition
-
-**********************************************************
 
 **********************************************************
 Project file - UserRecommendations.ipynb
@@ -99,8 +93,6 @@ Skills and Tools
 Collaborative Filtering, Recommender Systems, Python
 
 **********************************************************
-
-**********************************************************
 Project file - ConcreteCompressionStrengthAnalysis.ipynb
 **********************************************************
 
@@ -113,8 +105,6 @@ This project involved feature exploration and selection to predict the strength 
 Skills and Tools
 
 Regression, Decision trees, feature engineering
-**********************************************************
-
 *******************************************
 Project file - NaiveBayesLogRegProject.ipynb
 *******************************************
@@ -127,8 +117,6 @@ Applied a Classification model like Naive Bayes to predict whether a patient is 
 Skills and Tools
 
 Classification, Python, Naive Bayes
-
-*******************************************
 **************************************
 Project file - HypothesisTesting.ipynb
 **************************************
