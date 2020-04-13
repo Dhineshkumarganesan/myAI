@@ -1,4 +1,19 @@
 # myAI
+
+
+**********************************************************
+Project file - PneumoniaDetection.ipynb
+**********************************************************
+Pneumonia Detection
+
+Capstone Project
+
+The capstone project is a focused approach to attempt a real-life challenge with the learning from the program. The AIML capstone problems are classified under the themes of Computer Vision and Natural Language Processing. The Pneumonia Detection using X-ray images and Automatic Ticket Classification are the projects assigned under the themes respectively. The goals are - CV: Locate the position of inflammation in an image. NLP :Build a classifier that can classify the tickets by analyzing text.
+
+Skills and Tools
+
+CNN, Text preprocessing, LSTM
+
 **********************************************************
 Project file - FakenewsLSTMClassification.ipynb
 **********************************************************
