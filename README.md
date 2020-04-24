@@ -12,7 +12,7 @@ The capstone project is a focused approach to attempt a real-life challenge with
 
 Skills and Tools
 
-CNN, Text preprocessing, LSTM
+CNN, Bouding Box Predictor, Mask R CNN, Yolo
 
 **********************************************************
 Project file - FakenewsLSTMClassification.ipynb
