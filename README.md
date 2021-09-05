@@ -1,5 +1,7 @@
 # myAI
 
+![image](https://user-images.githubusercontent.com/59999899/132138689-9ee83a65-285b-48f7-b62b-ef52c05bc747.png)
+
 
 **********************************************************
 Project file - PneumoniaDetection.ipynb
